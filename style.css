@@ -1,0 +1,26 @@
+body{
+    margin:0;
+}
+.icon-bar{
+    background-color: #555;
+    overflow: auto;
+    
+}
+.icon-bar a{
+    color:aliceblue;
+    font-size: 30px;
+    width :20%;
+    float:left;
+    border: none;
+    text-align: center;
+    padding: 12px 0;
+
+}
+.icon-bar a:hover{
+    background-color: black;
+    color :darkgoldenrod
+}
+
+#active{
+    background-color: rgb(42, 183, 188);
+}
