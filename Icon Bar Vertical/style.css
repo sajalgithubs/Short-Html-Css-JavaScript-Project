@@ -1,0 +1,27 @@
+body{
+    margin:0;
+}
+
+.iconBar{
+    background-color: #5555;
+    width : 100px;
+
+}
+.iconBar a{
+    color: white;
+    text-align: center;
+    display: block;
+    font-size: 35px;
+    padding: 16px;
+   
+    
+    
+}
+.iconBar a:hover{
+    background-color: black;
+    
+}
+
+.active{
+    background-color: #04AA6D;
+}
